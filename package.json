@@ -17,5 +17,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "Adding things",
-	"keywords": [ "descriptive", "related", "words", "freecodecamp" ]
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "ABC"
 }

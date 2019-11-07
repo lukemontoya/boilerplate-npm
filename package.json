@@ -16,5 +16,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "Adding things"
+	"description": "Adding things",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ]
 }

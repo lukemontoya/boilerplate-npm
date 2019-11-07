@@ -1,10 +1,9 @@
 {
-
 	"name": "fcc-learn-npm-package-json",
 	"author": "Luke Montoya",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -18,7 +17,12 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "Adding things",
-	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
 	"license": "ABC",
 	"version": "1.2.0"
 }

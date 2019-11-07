@@ -16,10 +16,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-<<<<<<< HEAD
 	"description": "Adding things",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp" ]
-=======
-	"description": "Adding things"
->>>>>>> fdc388120ba57bb281ae2d993cd360bda1eafbc7
 }

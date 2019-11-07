@@ -2,7 +2,6 @@
 
 	"name": "fcc-learn-npm-package-json",
 	"author": "Luke Montoya",
-	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -16,5 +15,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "Adding things",
 }
